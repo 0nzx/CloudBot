@@ -94,6 +94,6 @@ Lista de Comandos
 
 //Processo TERCIÁRIO - Login//
 
-client.login(process.env.TOKEN); //Ligando o Bot caso ele consiga acessar o token
+client.login(process.env.TOKEN);MTA2MjU2MTQ4MTQxMTAwMjQ5MA.Gqq_-p.Lh7bVqxnwJEAjfC_W_ZzJM_8uu9SpU4_vNfUT4 //Ligando o Bot caso ele consiga acessar o token
 
 //Processo TERCIÁRIO - Login//
